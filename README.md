@@ -10,7 +10,7 @@ I am an **MS (Research) scholar at IIT Madras**, specializing in Data Science an
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 📊 GitHub Stats
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-gatwar&show_icons=true&theme=transparent)
+![Khushi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=khushi-gatwar&show_icons=true&theme=transparent)
 
 ### 📫 Let's Connect
 - **LinkedIn:** [in/khushi-gatwar](https://www.linkedin.com/in/khushi-gatwar)
